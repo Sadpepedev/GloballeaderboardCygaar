@@ -363,7 +363,7 @@ function App() {
                       <h3 className="text-2xl font-bold text-red-400">Womp Womp</h3>
                       <Skull className="w-6 h-6 text-red-400" />
                     </div>
-                    <p className="text-red-200 mt-2">No points or blocks held yet. Time to join the Cygaarverse!</p>
+                    <p className="text-red-200 mt-2">No points yet. Maybe its time to join the Cygaarverse!</p>
                   </div>
                 )}
 
